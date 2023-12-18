@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GSVSRINIVASAN
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning python,html
-- 📫 How to reach me ...gsv.srinivasan08@gmail.com
+- 🌱 I’m currently learning python,html/CSS
+- 📫 How to reach me  gsv.srinivasan08@gmail.com
 
 
 <!---
